@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TravailARendre</string>
+    <string name="email" />
+    <string name="phone" />
+    <string name="adresse" />
+    <string name="ville" />
+    <string name="envoyer" />
+    <string name="nom_et_pr_nom" />
+
+    <string-array name="cities_array">
+        <item>Agadir</item>
+        <item>Casablanca</item>
+        <item>Rabat</item>
+        <item>Marrakech</item>
+        <item>Tanger</item>
+    </string-array>
+</resources>
